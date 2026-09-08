@@ -1,0 +1,4 @@
+Agreement_ID,Evaluation_Count,Benefit_Count,Review_Count,Agreement_Action
+SPA-1001,12,4,0,SPLIT / UPDATE SPA
+SPA-1002,4,0,4,DELETE SPA
+SPA-1003,4,4,2,KEEP AS IS
