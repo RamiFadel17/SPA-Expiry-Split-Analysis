@@ -2,6 +2,10 @@
 
 A business analytics portfolio project that evaluates Special Pricing Agreements (SPAs) to identify pricing benefits, margin risk, expiry risk, and the appropriate action for each agreement.
 
+A Special Pricing Agreement (SPA) is a negotiated customer-specific price that differs from standard pricing and therefore needs to be monitored for profitability, customer benefit, and expiration.
+
+The goal is to turn detailed pricing records into clear management recommendations: keep the agreement, update/split it, delete it, or investigate an exception.
+
 The project demonstrates an end-to-end analytics workflow using **Excel / Power Query, SQL Server, Python / Pandas, and Power BI**.
 
 ## Dashboard Preview
@@ -33,7 +37,7 @@ The pricing hierarchy includes:
 The analysis then calculates:
 
 - SPA unit price
-- Applicable into-stock/customer price
+- Applicable comparison price based on the pricing hierarchy
 - Price difference
 - SPA benefit
 - SPA margin %
@@ -62,7 +66,7 @@ Results:
 - **1** SPA recommended for **Deletion**
 - **6** pricing, margin, or expiry review exceptions identified
 
-The Power BI dashboard provides management-level visibility into SPA actions, expiry status, customer exceptions, and regional filtering.
+The Power BI dashboard gives management a single view of which agreements can remain unchanged, which require updates, which should be removed, and where pricing, margin, or expiry exceptions require attention.
 
 ## Technology Stack
 
