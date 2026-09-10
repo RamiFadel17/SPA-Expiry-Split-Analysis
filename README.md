@@ -1,4 +1,4 @@
-# SPA Expiry & Split Analysis
+# Special Pricing Agreement (SPA) Expiry & Split Analysis
 
 A business analytics portfolio project that evaluates Special Pricing Agreements (SPAs) to identify pricing benefits, margin risk, expiry risk, and the appropriate action for each agreement.
 
