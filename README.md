@@ -66,7 +66,26 @@ Results:
 - **1** SPA recommended for **Deletion**
 - **6** pricing, margin, or expiry review exceptions identified
 
-The Power BI dashboard gives management a single view of which agreements can remain unchanged, which require updates, which should be removed, and where pricing, margin, or expiry exceptions require attention.
+The Power BI dashboard gives commercial and management stakeholders a single view of which agreements can remain unchanged, which require updates, which should be removed, and where pricing, margin, or expiry exceptions require attention.
+
+## Business Impact / Decisions Enabled
+
+This analysis is designed to help commercial, pricing, sales operations, and management teams make faster and more consistent decisions about Special Pricing Agreements.
+
+It enables stakeholders to:
+
+- Identify which SPAs are still delivering meaningful customer value
+- Detect agreements creating margin risk or requiring pricing review
+- Prioritize expired or soon-to-expire agreements for action
+- Decide whether an agreement should be kept, split/updated, deleted, or investigated further
+- Identify customers and agreements that require immediate review
+- Reduce manual review by consolidating pricing, margin, expiry, and exception logic into one analytical workflow
+- Give commercial and management teams a single view of agreement health and recommended actions
+- Support more consistent pricing governance across customers and regions
+
+The broader business value is improved pricing discipline, reduced margin leakage, faster agreement reviews, and clearer prioritization for teams responsible for commercial performance.
+
+The workflow is intended to support cross-functional decisions across pricing, sales operations, finance, account management, and leadership by giving each team the same underlying view of agreement performance and risk.
 
 ## Technology Stack
 
